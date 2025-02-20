@@ -1,4 +1,4 @@
-GOOGLE_API_KEY = "AIzaSyCpd2U1ReQD2NwyX9vC-1XjLmLQOOOSM1o"
+
 from tqdm import tqdm
 import os
 import google.generativeai as genai
