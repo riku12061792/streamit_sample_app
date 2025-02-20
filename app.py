@@ -1,4 +1,4 @@
-GOOGLE_API_KEY = "AIzaSyCpd2U1ReQD2NwyX9vC-1XjLmLQOOOSM1o"
+
 
 import streamlit as st
 import os
